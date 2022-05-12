@@ -8,3 +8,21 @@ class Solution {
         return nums;
     }
 }
+
+
+//Second Approch
+
+
+public class Running_Sum_Array {
+
+	public static void main(String[] args) {
+		int []sums= {1,4,7,8};
+		int op=0;
+	 for(int i=0; i<sums.length;i++) {
+    op +=sums[i];
+	 System.out.println(op);
+}
+	}
+
+}
+
