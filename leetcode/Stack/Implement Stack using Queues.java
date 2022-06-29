@@ -1,4 +1,4 @@
-//Implement Stack using Queues
+//https://leetcode.com/problems/implement-stack-using-queues/
 //T and S - O(n)- using 2 Queue
 
 class MyStack {
